@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>warframe.Drift</id>
+    <version>1.0.0</version>
+    <authors>warframe.Drift</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\timta\source\repos\_warframe\warframe.Drift\bin\Debug\net6.0-windows\warframe.Drift.runtimeconfig.json" target="lib\net6.0-windows7.0\warframe.Drift.runtimeconfig.json" />
+    <file src="C:\Users\timta\source\repos\_warframe\warframe.Drift\bin\Debug\net6.0-windows\warframe.Drift.dll" target="lib\net6.0-windows7.0\warframe.Drift.dll" />
+  </files>
+</package>
